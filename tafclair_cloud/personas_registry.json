@@ -1,0 +1,64 @@
+{
+  "personas": [
+    {
+      "id": "marc_tafclair",
+      "name": "Marc",
+      "studio": "Tafclair / PolitiqFlow",
+      "lang": "fr",
+      "region_target": "FR",
+      "voice_profile": "fr-FR-HenriNeural",
+      "pitch_hz": "-2Hz",
+      "rate_wpm": "+8%",
+      "visual_prompt_google_flow": "Studio editorial close-up, 34-year-old French man, sharp jawline, natural skin pores, wearing a matte black merino turtleneck, warm key light at 45 degrees, shallow depth of field f/1.8, dark slate studio background, 35mm Kodak Portra film grain, no plastic skin.",
+      "editorial_angle": "Décryptage chirurgical des discours politiques et contradictions parlementaires."
+    },
+    {
+      "id": "alex_tafclair",
+      "name": "Alex",
+      "studio": "Tafclair / Éloquence",
+      "lang": "fr",
+      "region_target": "FR",
+      "voice_profile": "fr-FR-RemyMultilingualNeural",
+      "pitch_hz": "+0Hz",
+      "rate_wpm": "+14%",
+      "visual_prompt_google_flow": "Dynamic medium shot, 28-year-old man, crisp white shirt with rolled sleeves, high-contrast rim light, podcast condenser microphone slightly off-axis, natural skin texture, editorial documentary look, 50mm lens f/2.0.",
+      "editorial_angle": "Rythme rapide, sound design percutant (tafclair_sfx), punchlines de négociation et rhétorique."
+    },
+    {
+      "id": "naya_tekstur",
+      "name": "Naya",
+      "studio": "Tekstur",
+      "lang": "fr",
+      "region_target": "FR",
+      "voice_profile": "fr-FR-DeniseNeural",
+      "pitch_hz": "+1Hz",
+      "rate_wpm": "+4%",
+      "visual_prompt_google_flow": "Warm luxury beauty editorial portrait, 29-year-old Black woman with defined 4C natural hair, luminous healthy skin with visible natural texture, cream linen blazer, warm golden-hour key light (#F7F1E8 backdrop), macro clarity.",
+      "editorial_angle": "Dermo-cosmétique peau foncée, SPF sans voile gris, porosité 4C et sélection produits affiliés."
+    },
+    {
+      "id": "leo_cognition",
+      "name": "Léo",
+      "studio": "Cognition-Studio",
+      "lang": "fr",
+      "region_target": "FR",
+      "voice_profile": "fr-FR-HenriNeural",
+      "pitch_hz": "+2Hz",
+      "rate_wpm": "+10%",
+      "visual_prompt_google_flow": "Minimalist dark-mode neuro lab portrait, 26-year-old focused researcher, subtle rim lighting in amber and slate blue, crisp eyeglasses, natural skin grain, 85mm portrait lens.",
+      "editorial_angle": "Défis de temps de réaction, biais cognitifs de Kahneman et tests cérébraux."
+    },
+    {
+      "id": "jordan_vocalflow_us",
+      "name": "Jordan",
+      "studio": "VocalFlow",
+      "lang": "en",
+      "region_target": "US_ESIM_PROXY",
+      "voice_profile": "en-US-AndrewMultilingualNeural",
+      "pitch_hz": "-3Hz",
+      "rate_wpm": "+5%",
+      "visual_prompt_google_flow": "Broadcast acoustic studio portrait, 32-year-old American executive voice coach, dark walnut acoustic panels and vintage Studer VU meters softly blurred in background, warm tungsten key light, natural skin texture.",
+      "editorial_angle": "Executive presence, American vocal resonance, pitch control and Shark Tank / TED delivery."
+    }
+  ]
+}
